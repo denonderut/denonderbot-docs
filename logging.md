@@ -23,3 +23,4 @@ Denonderbot will send a message to a specified channel when certain events take 
 | on_member_ban | Member banned from the server. |
 | on_member_unban | Member unbanned from the server. |
 | on_member_update | Server profile updated. |
+| on_invite_create | Server invite created. | 
