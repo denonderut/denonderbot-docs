@@ -5,7 +5,6 @@
 Denonderbot logs events such as deleted messages, edited messages, new channels, edited channels, deleted channels, new roles, etc. Denonderbot will log to a specified channel that is set up by an administrator. To specify the logging channel, send `!logs_channel`. The bot will then wait for a reposnse in the form of a channel ID.
 
 
-
 ## Welcome Channel
 
 Denonderbot will send an embed when a member joins the server. The channel you want these messages to be sent to can be specified with the command: `!welcome_channel`. You will be asked to enter a welcome channel ID. After this, your welcome channel will be set and messages by the bot will be sent.
