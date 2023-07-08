@@ -20,14 +20,12 @@ The ban command bans a user from the guild. Using the command: `!ban [user] [rea
 
 Requirements: `ban_members`
 
-
 ![ban_members](images\ban_members.png)
 
-<!-- ## Unban
+## Unban
 
 The unban command does the opposite of the ban command. The syntax for this command is: `!unban [user]`. 
 
 Requirements: `ban_members`
 
-
-![ban_members](images\ban_members.png) -->
+![ban_members](images\ban_members.png)

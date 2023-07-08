@@ -20,3 +20,6 @@ Denonderbot will send a message to a specified channel when certain events take 
 | on_guild_role_update | Role properties edited. | 
 | on_member_join | Member joins the server. |
 | on_member_remove | Member leaves the server. | 
+| on_member_ban | Member banned from the server. |
+| on_member_unban | Member unbanned from the server. |
+| on_member_update | Server profile updated. |
