@@ -1,6 +1,6 @@
 # Logging
 
-> :information_source: Please refer to the [Config]() to set a logging channel.
+> :information_source: Please refer to the [Config](config.md) to set a logging channel.
 
 ## Description
 
